@@ -12,7 +12,6 @@ module.exports = ({
 \`\`\`
 help
 command
-invite
 ping
 setprefix
 \`\`\`
