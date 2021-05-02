@@ -2,7 +2,7 @@ const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({
   mobile: true,
-  token: "ODM4MzcyMTA5NDE0NTYzODgw.YI6I3w.tyRkY_jvi3Gp8GutFS673-iZrqc",
+  token: "ODM4MzcyMTA5NDE0NTYzODgw.YI6I3w.3InPEbnltg5L19Bmdp_hSXCFVZ8",
   prefix: ['$getServerVar[prefix]', '<@!$clientID>', '<@$clientID>']
 })
 
