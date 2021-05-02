@@ -6,7 +6,7 @@ module.exports = ({
     category: "utility",
     code:
     `
-    $thumbnail[$userAvatar[$clientID]]
+    $thumbnail[https://i.imgur.com/BKyOOmH.gif]
     $description[Do \`$getServerVar[prefix]command <command name>\` to show a command's information
 🍕Utility:
 \`\`\`
