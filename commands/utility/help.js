@@ -63,7 +63,7 @@ membercount
 emojicount
 poll
 \`\`\`
-If you memorized everything, you are a very intelligent My <3
+If you memorized everything, you are a very intelligent My <3!
 ]
 $color[RANDOM]
     })
