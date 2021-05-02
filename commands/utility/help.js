@@ -7,7 +7,7 @@ module.exports = ({
     code:
     `
     $thumbnail[$userAvatar[$clientID]]
-    $description[Do \`$getServerVar[prefix]command <command name>\` to show a pokecommand's information
+    $description[Do \`$getServerVar[prefix]command <command name>\` to show a okecommand's information
 Utility:
 \`\`\`
 help
