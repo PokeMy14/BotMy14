@@ -1,5 +1,5 @@
 module.exports = ({
-  prefix: ";", // you can change it with desired prefix
+  prefix: "//", // you can change it with desired prefix
     xp: "0",
     level: "0",
     req: "50",
