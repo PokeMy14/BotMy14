@@ -7,8 +7,8 @@ module.exports = ({
     code:
     `
     $thumbnail[$userAvatar[$clientID]]
-    $description[Do \`$getServerVar[prefix]command <command name>\` to show a okecommand's information
-Utility:
+    $description[Do \`$getServerVar[prefix]command <command name>\` to get more information about a command!
+🍕Utility:
 \`\`\`
 help
 command
@@ -16,14 +16,14 @@ invite
 ping
 setprefix
 \`\`\`
-Leveling:
+🥇Leveling:
 \`\`\`
 leveling enable/disable (enabled by default)
 levels
 exp
 expcooldown
 \`\`\`
-Economy:
+💰Economy:
 \`\`\`
 daily
 work
@@ -33,7 +33,7 @@ balance
 leaderboard
 award (Bot Developer only)
 \`\`\`
-Information:
+🔎Information:
 \`\`\`
 userinfo
 channelinfo
@@ -42,7 +42,7 @@ serverinfo
 botinfo
 developerinfo
 \`\`\`
-Music:
+🎧Music:
 \`\`\`
 play
 stop
@@ -57,17 +57,14 @@ loopqueue
 loopsong
 nowplaying
 \`\`\`
-Miscellaneous: 
+🎲Miscellaneous: 
 \`\`\`
 avatar
 membercount
 emojicount
 poll
 \`\`\`
-Developer:
-\`\`\`
-eval
-\`\`\`
+If you memorized everything, you are a very intelligent My <3
 ]
-$color[RANDOM]`
+$color=0x55d8d0`
     })
