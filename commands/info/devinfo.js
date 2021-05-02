@@ -3,10 +3,10 @@
 module.exports = ({
     name: "developerinfo", 
     aliases: ['devinfo', 'whoisdev'],
-    description: "Know about my developer!",
+    description: "Know abot PokeMy14!",
     usage: "",
     category: "information",
-    code: `$title[Click the link!;https://github.com/baeriri/multipurpose-bot]
+    code: `$title[Click the link!;https://www.youtube.com/channel/UCDTG7GEfcRVPmd7wpHwPYmQ]
     $author[$userTag[$botOwnerID]]
     $color[RANDOM]
     $thumbnail[$userAvatar[$botOwnerID]]
