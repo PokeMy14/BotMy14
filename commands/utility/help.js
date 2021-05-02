@@ -65,5 +65,5 @@ poll
 \`\`\`
 If you memorized everything, you are a very intelligent My <3
 ]
-$color[0x55d8d0]
+$color[RANDOM]
     })
