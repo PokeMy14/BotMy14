@@ -8,7 +8,7 @@ module.exports = ({
     `
     $thumbnail[$userAvatar[$clientID]]
     $description[Do \`$getServerVar[prefix]command <command name>\` to show a command's information
-Utility:
+🍕Utility:
 \`\`\`
 help
 command
@@ -16,14 +16,14 @@ invite
 ping
 setprefix
 \`\`\`
-Leveling:
+🥇Leveling:
 \`\`\`
 leveling enable/disable (enabled by default)
 levels
 exp
 expcooldown
 \`\`\`
-Economy:
+💰Economy:
 \`\`\`
 daily
 work
@@ -33,7 +33,7 @@ balance
 leaderboard
 award (Bot Developer only)
 \`\`\`
-Information:
+🔎Information:
 \`\`\`
 userinfo
 channelinfo
@@ -42,7 +42,7 @@ serverinfo
 botinfo
 developerinfo
 \`\`\`
-Music:
+🎧Music:
 \`\`\`
 play
 stop
@@ -57,16 +57,12 @@ loopqueue
 loopsong
 nowplaying
 \`\`\`
-Miscellaneous: 
+🎲Miscellaneous: 
 \`\`\`
 avatar
 membercount
 emojicount
 poll
-\`\`\`
-Developer:
-\`\`\`
-eval
 \`\`\`
 ]
 $color[RANDOM]`
