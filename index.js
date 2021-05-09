@@ -2,7 +2,7 @@ const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({
   mobile: false, // Just true if wanna show Mobile
-  token: "ODM4MzcyMTA5NDE0NTYzODgw.YI6I3w.3InPEbnltg5L19Bmdp_hSXCFVZ8", //token of the bot
+  token: "TOKEN", //token of the bot
   prefix: ['$getServerVar[prefix]', '<@!$clientID>', '<@$clientID>'] //doesn't touch
 })
 
